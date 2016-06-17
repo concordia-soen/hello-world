@@ -1,3 +1,3 @@
 # hello-world
 
-Displays a greeting message.
+Displays a greeting message
